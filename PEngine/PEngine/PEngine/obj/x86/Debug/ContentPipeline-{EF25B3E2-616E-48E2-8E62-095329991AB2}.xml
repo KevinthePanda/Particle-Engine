@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2014-09-15T23:43:42.3786305-04:00</Time>
+    </Item>
+    <Item>
+      <Source>diamond.png</Source>
+      <Name>diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\bin\x86\Debug\Content\diamond.xnb</Output>
+      <Time>2014-09-15T23:43:42.3816318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2014-09-15T23:43:42.3836328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>InstructionsFont.spritefont</Source>
+      <Name>InstructionsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\bin\x86\Debug\Content\InstructionsFont.xnb</Output>
+      <Time>2014-09-16T23:36:07.7376131-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EF25B3E2-616E-48E2-8E62-095329991AB2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngineContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\kevin quicho\documents\visual studio 2013\Projects\PEngine\PEngine\PEngine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-15T11:43:02.490548-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
